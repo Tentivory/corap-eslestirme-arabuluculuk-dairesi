@@ -1,0 +1,8 @@
+[
+  {"ad": "pazartesi-solu", "renk": "lacivert", "taraf": "sol", "delik": 1, "kirginlik": 20},
+  {"ad": "pazartesi-sagi", "renk": "lacivert", "taraf": "sag", "delik": 1, "kirginlik": 15},
+  {"ad": "ofkeli-tek", "renk": "kirmizi", "taraf": "sol", "delik": 3, "kirginlik": 90},
+  {"ad": "cekmece-nuspeti", "renk": "gri", "taraf": "sag", "delik": 0, "kirginlik": 5},
+  {"ad": "gri-kacakin-esi", "renk": "gri", "taraf": "sol", "delik": 0, "kirginlik": 12},
+  {"ad": "siyah-tanik", "renk": "siyah", "taraf": "sag", "delik": 2, "kirginlik": 40}
+]
